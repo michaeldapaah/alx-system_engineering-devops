@@ -1,0 +1,1 @@
+This is writing bash script for the shell project
